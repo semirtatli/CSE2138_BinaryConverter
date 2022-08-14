@@ -1,8 +1,3 @@
-/*
- * Abdül Samet Yýlmaz 150118059
- * Semir TatlÄ± 150119004
- * Muhammet Zübeyir Ýncekara 150119038
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
